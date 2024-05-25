@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Teo</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
 
-- 🌱 I’m currently learning **ASP.Net, JS,HTML and CSS**
+- 🌱 I’m currently learning **React,JS,Express,HTML and CSS**
 
-- 📫 How to reach me **teo.thenx@gmail.com**
+- 📫 How to reach me **teo.valxev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/teodor-valchev/](https://www.linkedin.com/in/teodor-valchev/)
 
