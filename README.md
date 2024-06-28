@@ -7,10 +7,6 @@
 
 - 🔭 I’m currently working on [PureGym](https://github.com/teodor-valchev/Gym)
 
-- 🌱 I’m currently learning **React,JavaScript,Node.js,HTML&CSS**
-
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **teo.valxev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/teodor-valchev/](https://www.linkedin.com/in/teodor-valchev/)
