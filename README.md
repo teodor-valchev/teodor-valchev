@@ -1,6 +1,29 @@
 <h1 align="center">Hi 👋, I'm Teo</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
+Why me❓
+Deep understanding of upcoming technologies to solve complex business problems;
+Expertise in writing JavaScript/TypeScript code characterized by its cleanliness, impressive performance, and potential for scalability;
+
+Skills:
+Nodejs: Typescript, Express;
+React: Typescript, JavaScript;
+Databases: PostgreSQL, MySQL, MSSQL, NoSQL, MongoDB;
+Containers and orchestration: Docker, Kubernetes;
+
+Certificates
+January 2023 - The Ultimate React Native Series: Fundamentals
+January 2023 - Introduction to Mobile Development
+October 2022 - Project Initiation: Starting a Successful Project.Authorized by Google
+September 2022 - Smart Contracts. Authorized by University at Buffalo
+September 2022 - Blockchain Basics. Authorized by University at Buffalo
+September 2022 - Containerized Applications on AWS. Authorized by AWS;
+August 2022 - Foundations of Project Management. Authorized by Google;
+April 2019 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning. Authorized by DeepLearning.AI;
+March 2016 - M101JS: MongoDB for Node.js Developers. Authorized by MongoDB University;
+April  2021 -  <a href="[https://www.w3schools.com](https://softuni.bg/users/profile/certificates?username=Reazer987)">Cybersecurity and Ethical Hacking</a>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teodor-valchev&label=Profile%20views&color=0e75b6&style=flat" alt="teodor-valchev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teodor-valchev" alt="teodor-valchev" /></a> </p>
