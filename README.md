@@ -18,9 +18,9 @@ October 2022 - Project Initiation: Starting a Successful Project.Authorized by G
 September 2022 - Smart Contracts. Authorized by University at Buffalo
 September 2022 - Blockchain Basics. Authorized by University at Buffalo
 September 2022 - Containerized Applications on AWS. Authorized by AWS;
-August 2022 - Foundations of Project Management. Authorized by Google;
-April 2019 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning. Authorized by DeepLearning.AI;
-March 2016 - M101JS: MongoDB for Node.js Developers. Authorized by MongoDB University;
+September 2021 -  <a href="https://softuni.bg/users/profile/certificates?username=Reazer987"> C# Advanced</a>
+October 2021 -  <a href="https://softuni.bg/users/profile/certificates?username=Reazer987"> C# OOP</a>
+May  2021 -  <a href="https://softuni.bg/users/profile/certificates?username=Reazer987"> Programming Fundamentals with C#</a>
 April  2021 -  <a href="https://softuni.bg/users/profile/certificates?username=Reazer987">Cybersecurity and Ethical Hacking</a>
 
 
