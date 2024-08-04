@@ -21,7 +21,7 @@ September 2022 - Containerized Applications on AWS. Authorized by AWS;
 August 2022 - Foundations of Project Management. Authorized by Google;
 April 2019 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning. Authorized by DeepLearning.AI;
 March 2016 - M101JS: MongoDB for Node.js Developers. Authorized by MongoDB University;
-April  2021 -  <a href="[https://www.w3schools.com](https://softuni.bg/users/profile/certificates?username=Reazer987)">Cybersecurity and Ethical Hacking</a>
+April  2021 -  <a href="https://softuni.bg/users/profile/certificates?username=Reazer987">Cybersecurity and Ethical Hacking</a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teodor-valchev&label=Profile%20views&color=0e75b6&style=flat" alt="teodor-valchev" /> </p>
