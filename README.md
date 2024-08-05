@@ -5,16 +5,18 @@
 <ul>
   <li>Deep understanding of upcoming technologies to solve complex business problems;</li>
   <li>Expertise in writing JavaScript/TypeScript code characterized by its cleanliness, impressive performance, and potential for scalability;</li>
+  <li>Worked 2 years professionally for a company called Merkle as a Full-Stack JS Web Developer;</li>
+  <li>Passionate developer who loves challenges;</li>
+  <li>Reliable team player that colleagues can depend on;</li>
 </ul>
 
 <h2>Skills:</h2>
 <ul>
   <li>Nodejs: Typescript, Express;</li>
-  <li>React: Typescript, JavaScript;</li>
+  <li>React: JavaScript;</li>
   <li>Databases: PostgreSQL, MySQL, MSSQL, NoSQL, MongoDB;</li>
   <li>Containers and orchestration: Docker, Kubernetes;</li>
 </ul>
-
 
 <h2>Certificates:</h2>
 <ul>
@@ -30,7 +32,6 @@
   <li>May 2021 -  <a href="https://softuni.bg/certificates/details/111668/ed277b9d"> Programming Fundamentals with C#</a></li>
   <li>April 2021 -  <a href="https://softuni.bg/certificates/details/107033/376b8db2">Cybersecurity and Ethical Hacking</a></li>
 </ul>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teodor-valchev&label=Profile%20views&color=0e75b6&style=flat" alt="teodor-valchev" /> </p>
 
