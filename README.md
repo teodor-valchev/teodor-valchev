@@ -16,7 +16,7 @@
 </ul>
 
 
-Certificates:
+<h2>Certificates:</h2>
 <ul>
   <li>September 2023 - <a href="https://softuni.bg/certificates/details/199601/36d500dc"> JS Back-End</a></li>
   <li>September 2023 - <a href="https://softuni.bg/certificates/details/190870/8546b87d"> HTML&CSS</a></li>
