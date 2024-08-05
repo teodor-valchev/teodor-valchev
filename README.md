@@ -1,43 +1,35 @@
 <h1 align="center">Hi 👋, I'm Teo</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-Why me❓
-Deep understanding of upcoming technologies to solve complex business problems;
+<h2>Why me❓</h2>
+<ul>
+  <li>Deep understanding of upcoming technologies to solve complex business problems;</li>
+  <li>Expertise in writing JavaScript/TypeScript code characterized by its cleanliness, impressive performance, and potential for scalability;</li>
+</ul>
 
-Expertise in writing JavaScript/TypeScript code characterized by its cleanliness, impressive performance, and potential for scalability;
+<h2>Skills:</h2>
+<ul>
+  <li>Nodejs: Typescript, Express;</li>
+  <li>React: Typescript, JavaScript;</li>
+  <li>Databases: PostgreSQL, MySQL, MSSQL, NoSQL, MongoDB;</li>
+  <li>Containers and orchestration: Docker, Kubernetes;</li>
+</ul>
 
-Skills:
-Nodejs: Typescript, Express;
 
-React: Typescript, JavaScript;
-
-Databases: PostgreSQL, MySQL, MSSQL, NoSQL, MongoDB;
-
-Containers and orchestration: Docker, Kubernetes;
-
-Certificates
-
-September 2023 - <a href="https://softuni.bg/certificates/details/199601/36d500dc"> JS Back-End</a>
-
-September 2023 - <a href="https://softuni.bg/certificates/details/190870/8546b87d"> HTML&CSS</a>
-
-September 2022 - <a href="https://softuni.bg/certificates/details/146566/aebed4e5"> ASP.NET</a>
-
-June 2022 - <a href="https://softuni.bg/certificates/details/141243/7b2a1223"> Entity Framework Core</a>
-
-May 2022 - <a href="https://softuni.bg/certificates/details/134868/375c50d3"> MS SQL</a>
-
-January 2022 - <a href="https://softuni.bg/certificates/details/130609/3cfc8e38"> JS Advanced</a>
-
-February 2022 - <a href="https://softuni.bg/certificates/details/130500/87a3caf3"> JS Applications</a>
-
-September 2021 -  <a href="https://softuni.bg/certificates/details/121973/799db25c"> C# Advanced</a>
-
-October 2021 -  <a href="https://softuni.bg/certificates/details/120494/eaa2758e"> C# OOP</a>
-
-May 2021 -  <a href="https://softuni.bg/certificates/details/111668/ed277b9d"> Programming Fundamentals with C#</a>
-
-April 2021 -  <a href="https://softuni.bg/certificates/details/107033/376b8db2">Cybersecurity and Ethical Hacking</a>
+Certificates:
+<ul>
+  <li>September 2023 - <a href="https://softuni.bg/certificates/details/199601/36d500dc"> JS Back-End</a></li>
+  <li>September 2023 - <a href="https://softuni.bg/certificates/details/190870/8546b87d"> HTML&CSS</a></li>
+  <li>September 2022 - <a href="https://softuni.bg/certificates/details/146566/aebed4e5"> ASP.NET</a></li>
+  <li>June 2022 - <a href="https://softuni.bg/certificates/details/141243/7b2a1223"> Entity Framework Core</a></li>
+  <li>May 2022 - <a href="https://softuni.bg/certificates/details/134868/375c50d3"> MS SQL</a></li>
+  <li>January 2022 - <a href="https://softuni.bg/certificates/details/130609/3cfc8e38"> JS Advanced</a></li>
+  <li>February 2022 - <a href="https://softuni.bg/certificates/details/130500/87a3caf3"> JS Applications</a></li>
+  <li>September 2021 -  <a href="https://softuni.bg/certificates/details/121973/799db25c"> C# Advanced</a></li>
+  <li>October 2021 -  <a href="https://softuni.bg/certificates/details/120494/eaa2758e"> C# OOP</a></li>
+  <li>May 2021 -  <a href="https://softuni.bg/certificates/details/111668/ed277b9d"> Programming Fundamentals with C#</a></li>
+  <li>April 2021 -  <a href="https://softuni.bg/certificates/details/107033/376b8db2">Cybersecurity and Ethical Hacking</a></li>
+</ul>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teodor-valchev&label=Profile%20views&color=0e75b6&style=flat" alt="teodor-valchev" /> </p>
