@@ -3,28 +3,41 @@
 
 Why me❓
 Deep understanding of upcoming technologies to solve complex business problems;
+
 Expertise in writing JavaScript/TypeScript code characterized by its cleanliness, impressive performance, and potential for scalability;
 
 Skills:
 Nodejs: Typescript, Express;
+
 React: Typescript, JavaScript;
+
 Databases: PostgreSQL, MySQL, MSSQL, NoSQL, MongoDB;
+
 Containers and orchestration: Docker, Kubernetes;
 
 Certificates
-January 2023 - The Ultimate React Native Series: Fundamentals
-January 2023 - Introduction to Mobile Development
-October 2022 - Project Initiation: Starting a Successful Project.Authorized by Google
-September 2022 - Smart Contracts. Authorized by University at Buffalo
-September 2022 - Blockchain Basics. Authorized by University at Buffalo
-September 2022 - Containerized Applications on AWS. Authorized by AWS;
-September 2021 -  <a href="https://softuni.bg/users/profile/certificates?username=Reazer987"> C# Advanced</a>
 
-October 2021 -  <a href="https://softuni.bg/users/profile/certificates?username=Reazer987"> C# OOP</a>
+September 2023 - <a href="https://softuni.bg/certificates/details/199601/36d500dc"> JS Back-End</a>
 
-May  2021 -  <a href="https://softuni.bg/users/profile/certificates?username=Reazer987"> Programming Fundamentals with C#</a>
+September 2023 - <a href="https://softuni.bg/certificates/details/190870/8546b87d"> HTML&CSS</a>
 
-April  2021 -  <a href="https://softuni.bg/users/profile/certificates?username=Reazer987">Cybersecurity and Ethical Hacking</a>
+September 2022 - <a href="https://softuni.bg/certificates/details/146566/aebed4e5"> ASP.NET</a>
+
+June 2022 - <a href="https://softuni.bg/certificates/details/141243/7b2a1223"> Entity Framework Core</a>
+
+May 2022 - <a href="https://softuni.bg/certificates/details/134868/375c50d3"> MS SQL</a>
+
+January 2022 - <a href="https://softuni.bg/certificates/details/130609/3cfc8e38"> JS Advanced</a>
+
+February 2022 - <a href="https://softuni.bg/certificates/details/130500/87a3caf3"> JS Applications</a>
+
+September 2021 -  <a href="https://softuni.bg/certificates/details/121973/799db25c"> C# Advanced</a>
+
+October 2021 -  <a href="https://softuni.bg/certificates/details/120494/eaa2758e"> C# OOP</a>
+
+May 2021 -  <a href="https://softuni.bg/certificates/details/111668/ed277b9d"> Programming Fundamentals with C#</a>
+
+April 2021 -  <a href="https://softuni.bg/certificates/details/107033/376b8db2">Cybersecurity and Ethical Hacking</a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teodor-valchev&label=Profile%20views&color=0e75b6&style=flat" alt="teodor-valchev" /> </p>
