@@ -13,6 +13,7 @@
 <h2>Skills:</h2>
 <ul>
   <li>Nodejs: Typescript, Express;</li>
+  <li>.NET: C#,OOP,Entity Framework Core;</li>
   <li>React: JavaScript;</li>
   <li>Databases: PostgreSQL, MySQL, MSSQL, NoSQL, MongoDB;</li>
   <li>Containers and orchestration: Docker, Kubernetes;</li>
