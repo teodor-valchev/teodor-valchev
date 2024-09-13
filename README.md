@@ -21,7 +21,7 @@
 
 <h2>Certificates:</h2>
 <ul>
-  <li>September 2024 - <a href="https://softuni.bg/certificates/details/223776/abe51f02">JS Web Developer</a></li>
+  <li>September 2024 - <a href="https://softuni.bg/certificates/details/225849/89be3d5d">JS Web Developer</a></li>
   <li>June 2024 - <a href="https://softuni.bg/certificates/details/223776/abe51f02">ReactJS</a></li>
   <li>September 2023 - <a href="https://softuni.bg/certificates/details/199601/36d500dc"> JS Back-End</a></li>
   <li>September 2023 - <a href="https://softuni.bg/certificates/details/190870/8546b87d"> HTML&CSS</a></li>
